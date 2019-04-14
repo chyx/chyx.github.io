@@ -57,7 +57,7 @@ TODO
 [Folate and vitamin B12 status in schizophrenic
 patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3252772/)
 
-## Choline
+## Choline(胆碱)
 
 胆碱，类维生素，细胞膜的重要成分，有助于脑部发展和记忆
 
