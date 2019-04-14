@@ -57,7 +57,7 @@ TODO
 [Folate and vitamin B12 status in schizophrenic
 patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3252772/)
 
-## Choline(胆碱)
+## Choline (胆碱)
 
 类维生素，细胞膜的重要成分，有助于脑部发展和记忆
 
@@ -75,7 +75,7 @@ patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3252772/)
 
 两个鸡蛋提供250mg choline
 
-## Piracetam(吡拉西坦)
+## Piracetam (吡拉西坦)
 
 TODO
 
@@ -95,7 +95,7 @@ schizophrenia](https://manipal.pure.elsevier.com/en/publications/add-on-effect-o
 schizophrenia](https://www.newscientist.com/article/2053882-fish-oil-pills-may-help-teenagers-stave-off-schizophrenia/)
 
 
-## Melatonin(褪黑素)
+## Melatonin (褪黑素)
 
 机制：改善睡眠，[保护突触](https://www.ncbi.nlm.nih.gov/pubmed/20162018/)
 
