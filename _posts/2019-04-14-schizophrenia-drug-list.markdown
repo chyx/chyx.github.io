@@ -59,7 +59,7 @@ patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3252772/)
 
 ## Choline(胆碱)
 
-胆碱，类维生素，细胞膜的重要成分，有助于脑部发展和记忆
+类维生素，细胞膜的重要成分，有助于脑部发展和记忆
 
 剂量上限：[3500mg](https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/#h8)
 
