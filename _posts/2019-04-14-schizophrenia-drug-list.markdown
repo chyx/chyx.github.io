@@ -39,7 +39,11 @@ trial.](https://www.ncbi.nlm.nih.gov/pubmed/29126981)
 
 ### B1
 
+TODO
+
 ### B6
+
+TODO
 
 ### B12
 
@@ -70,6 +74,8 @@ patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3252772/)
 两个鸡蛋提供250mg choline
 
 ## Piracetam(吡拉西坦)
+
+TODO
 
 ## Bacopa
 
