@@ -93,6 +93,14 @@ schizophrenia](https://manipal.pure.elsevier.com/en/publications/add-on-effect-o
 schizophrenia](https://www.newscientist.com/article/2053882-fish-oil-pills-may-help-teenagers-stave-off-schizophrenia/)
 
 
+## Melatonin(褪黑素)
+
+机制：改善睡眠，[保护突触](https://www.ncbi.nlm.nih.gov/pubmed/20162018/)
+
+low MLT levels might be the result of the body reaction trying to compensate the
+hyperoxidative status.
+
+
 ## 银杏
 
 可能机制：保护神经
@@ -112,6 +120,7 @@ schizophrenia](https://www.newscientist.com/article/2053882-fish-oil-pills-may-h
 |Alpha GPC|Nootropics|
 |Vitamin B6|Nootropics|
 |Piracetam|Nootropics|
+|Melatonin|Longevity|
 
 
 <!--#剂量(neurotypical)-->
