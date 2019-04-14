@@ -95,7 +95,7 @@ schizophrenia](https://www.newscientist.com/article/2053882-fish-oil-pills-may-h
 
 |名称|类型|剂量/天|论文剂量|毒性|
 |-|-|-|-|-|
-|NAC|Longevity/Nootropics|600mg x2||天然|
+|NAC|Longevity<br>Nootropics|600mg x2||天然|
 |Vitamin B12|Nootropics|1000mcg x1，舌下含片||天然|
 |Citicoline|Nootropics|250mg x2<br>目标剂量250mg x4|[250mg x10, 8周](https://www.ncbi.nlm.nih.gov/pubmed/29901250)|天然|
 |Bacopa|Nootropics|320mg (55% extract) x1||连续服用三个月后停用一个月|
