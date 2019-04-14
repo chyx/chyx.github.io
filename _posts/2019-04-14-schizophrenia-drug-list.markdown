@@ -17,8 +17,7 @@ toc: true
 
 *文献*
 
-2000IU/天，8周后Vitamin D提升，改善认知，对mood没有改善
-
+2000IU/天，8周后Vitamin D提升，改善认知，对mood没有改善: 
 [Vitamin D Supplementation in Chronic Schizophrenia Patients Treated with
 Clozapine](https://www.ncbi.nlm.nih.gov/pubmed/29226809)
 
@@ -29,8 +28,7 @@ Clozapine](https://www.ncbi.nlm.nih.gov/pubmed/29226809)
 
 *文献*
 
-1200mg, 12周，改善SCZ的阳性与阴性症状
-
+1200mg, 12周，改善SCZ的阳性与阴性症状: 
 [Therapeutic effect of adjunctive N-acetyl cysteine on symptoms of chronic
 schizophrenia: A double-blind, randomized clinical
 trial.](https://www.ncbi.nlm.nih.gov/pubmed/29126981)
@@ -49,8 +47,7 @@ trial.](https://www.ncbi.nlm.nih.gov/pubmed/29126981)
 
 *文献*
 
-78% schizophrenia存在叶酸和B12缺乏的问题
-
+78% schizophrenia存在叶酸和B12缺乏的问题:
 [Folate and vitamin B12 status in schizophrenic
 patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3252772/)
 
@@ -78,8 +75,7 @@ patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3252772/)
 
 *文献*
 
-个例研究
-
+个例研究: 
 [Add-on effect of Brahmi in the management of
 schizophrenia](https://manipal.pure.elsevier.com/en/publications/add-on-effect-of-brahmi-in-the-management-of-schizophrenia)
 
